@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=OperatorTokenFactory
+comment0.text=\n\ A\ TokenFactory\ useful\ for\ recognizing\ operators\ (such\ as\ +).\n
+comment1.params=operator\ tokenType
+comment1.target=OperatorTokenFactory(java.lang.String,\ TokenType)
+comment2.params=
+comment2.target=Token\ getToken()
+numComments=3

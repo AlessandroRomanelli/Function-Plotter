@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DADD
+comment0.text=\n\ DADD\ takes\ two\ numbers\ from\ the\ operand\ stack,\ adds\ them,\ \n\ and\ pushes\ the\ result\ back\ onto\ the\ operand\ stack.\n
+comment1.params=storage
+comment1.target=void\ execute(Storage)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LexicalAnalyzer
+comment0.text=\n\ A\ LexicalAnalyzer\ breaks\ a\ String\ into\ Tokens.\n\ This\ class\ supports\ looking\ ahead\ by\ one\ Token\n\ (that\ Token\ can\ be\ put\ back\ with\ putBackToken())\:\n\ \n\ <pre>\n\ lexer.fetchNextToken();\n\ Token\ t1\ \=\ lexer.getCurrentToken();\n\ //\ look\ ahead\ at\ t2,\ then\ put\ it\ back\:\ \n\ lexer.fetchNextToken();\n\ Token\ t2\ \=\ lexer.getCurrentToken();\n\ lexer.putBackToken();\n\ </pre>\ \n
+comment1.params=
+comment1.target=LexicalAnalyzer()
+comment2.params=expression
+comment2.target=LexicalAnalyzer(java.lang.String)
+comment3.params=expression
+comment3.target=void\ setText(java.lang.String)
+comment4.params=
+comment4.target=void\ fetchNextToken()
+comment5.params=
+comment5.target=Token\ scanToken()
+comment6.params=
+comment6.target=void\ putBackToken()
+comment7.params=
+comment7.target=Token\ getCurrentToken()
+numComments=8

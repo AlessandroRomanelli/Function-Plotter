@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Instruction
+comment1.params=stack
+comment1.target=void\ execute(Storage)
+comment1.text=\n\ This\ method\ executes\ this\ instruction,\n\ given\ an\ operand\ stack.\n\ The\ instruction\ takes\ its\ arguments\ (if\ any)\ from\ the\ stack,\n\ and\ puts\ its\ result\ (if\ any)\ onto\ the\ stack.\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ Produce\ a\ human-readable\ String-representation\ of\ this\ instruction.\n
+numComments=3

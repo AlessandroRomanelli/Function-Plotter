@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ The\ FunctionPlotter\ program\ implements\ a\ function\ plotter\ that\ can\ be\ used\n\ render\ the\ graph\ of\ a\ function\ in\ the\ bi-dimensional\ plane.\n\ \n\ @author\ Alessandro\ Romanelli\n\ @author\ Alessandra\ Vicini\n\ @version\ 0.5\n\ @since\ 2018-06-01\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+numComments=3

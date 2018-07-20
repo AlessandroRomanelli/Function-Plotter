@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ShadeCanvas
+comment0.text=\n\ The\ PlotCanvas\ is\ part\ of\ the\ GUI.\n\ It\ is\ a\ custom\ component,\ which\ draws\ itself\n\ (in\ the\ paintComponent\ method)\n\ and\ which\ provides\ information\ on\ how\ big\ it\ would\ like\ to\ be\n\ (via\ the\ getPreferredSize\ method).\n
+comment1.params=plot
+comment1.target=ShadeCanvas(Plot)
+comment2.params=function
+comment2.target=void\ functionChanged(Function)
+comment3.params=range
+comment3.target=void\ rangeChanged(Range)
+comment4.params=
+comment4.target=java.awt.Dimension\ getPreferredSize()
+comment5.params=g
+comment5.target=void\ paintComponent(java.awt.Graphics)
+comment6.params=vx
+comment6.target=double\ xViewToModel(int)
+comment7.params=y\ minY\ maxY
+comment7.target=int\ yModelToView(double,\ double,\ double)
+numComments=8

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=RangeField
+comment0.text=\n\ The\ RangeField\ can\ store\ either\ the\ minimums\ or\ maximum\ of\ the\ X\ and\ Y\n\ ranges.\ \n
+comment1.params=range\ isLeft
+comment1.target=RangeField(Range,\ boolean)
+comment2.params=ev
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=ev
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=ev
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=ev
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=range
+comment6.target=void\ rangeChanged(Range)
+comment7.params=range
+comment7.target=void\ rangeChanged(Range)
+comment8.params=text
+comment8.target=double\ evaluate(java.lang.String)
+comment9.params=
+comment9.target=void\ updateView()
+numComments=10

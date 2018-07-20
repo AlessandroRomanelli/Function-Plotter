@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DSUB
+comment0.text=\n\ DSUB\ takes\ two\ numbers\ from\ the\ operand\ stack,\ \n\ subtracts\ them\ (it\ subtracts\ the\ top\ of\ stack\ from\ the\ second-to-top\ of\ stack),\ \n\ and\ pushes\ the\ result\ back\ onto\ the\ operand\ stack.\n
+comment1.params=storage
+comment1.target=void\ execute(Storage)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

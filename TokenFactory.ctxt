@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TokenFactory
+comment0.text=\n\ A\ TokenFactory\ can\ produce\ a\ certain\ kind\ of\ Tokens.\n\ The\ LexicalAnalyzer\ uses\ an\ entire\ set\ of\ TokenFactories.\n
+comment1.params=text
+comment1.target=void\ setText(java.lang.String)
+comment1.text=\n\ Set\ the\ text\ in\ which\ this\ factory\ should\ find\ tokens.\n
+comment2.params=startFrom
+comment2.target=boolean\ find(int)
+comment2.text=\n\ Determine\ whether\ there\ is\ a\ token\ that\ starts\ at\ startFrom\ in\ the\ text.\n
+comment3.params=
+comment3.target=int\ getTokenLength()
+comment3.text=\n\ If\ find()\ was\ successful,\ return\ the\ length\ of\ the\ token\ we\ found.\n
+comment4.params=
+comment4.target=Token\ getToken()
+comment4.text=\n\ If\ find()\ was\ successful,\ produce\ and\ return\ a\ Token\ object\ representing\ the\ token\ we\ found.\n
+numComments=5

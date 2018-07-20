@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Literal
+comment0.text=\n\ An\ AST\ node\ representing\ a\ literal\ double\ value.\n
+comment1.params=value
+comment1.target=Literal(double)
+comment2.params=program
+comment2.target=void\ generateCode(Program)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=boolean\ isConstant()
+comment5.params=program
+comment5.target=Node\ optimize(Program)
+comment6.params=
+comment6.target=Node\ derivative()
+comment7.params=that
+comment7.target=boolean\ isEqual(Literal)
+numComments=8

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FunctionListener
+comment0.text=\n\ The\ "model"\ doesn't\ know\ the\ specific\ "GUI"\ classes.\n\ But\ it\ still\ wants\ to\ notify\ the\ "GUI"\ (or\ text\ UI,\ or\ ...)\n\ whenever\ the\ "model"\ changes,\ so\ that\ the\ "GUI"\ (or\ text\ UI,\ or\ ...)\n\ can\ react\ to\ those\ changes\ (e.g.,\ by\ repainting\ itself).\n\ \n\ To\ enable\ this,\ we\ have\ this\ FunctionListener\ interface.\n\ The\ "model"\ (i.e.,\ the\ Function)\ will\ call\ functionChanged()\ on\ all\ registered\ listeners,\n\ without\ knowing\ the\ specific\ subtype\ of\ FunctionListener\n\ (e.g.,\ the\ "model"\ does\ not\ know\ about\ the\ PlotCanvas\ class).\n
+comment1.params=function
+comment1.target=void\ functionChanged(Function)
+numComments=2

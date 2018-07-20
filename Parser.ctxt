@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\n\ A\ Parser\ for\ a\ simple\ expression\ language.\n\ \n\ <code>\n\ EXPRESSION\ \ \ \:\:\=\ [\ "+"\ |\ "-"\ ]\ TERM\ {\ [\ "+"\ |\ "-"\ ]\ TERM\ }\n\ TERM\ \ \ \ \ \ \ \ \ \:\:\=\ FACTOR\ {\ [\ "*"\ |\ "/"\ |\ "%"\ |\ "^"\ ]\ FACTOR\ }\n\ FACTOR\ \ \ \ \ \ \ \:\:\=\ LITERAL\ |\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ IDENTIFIER\ |\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ IDENTIFIER"("EXPRESSION")"\ |\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ "("\ EXPRESSION\ ")"\n\ </code>\n
+comment1.params=lexer
+comment1.target=Parser(LexicalAnalyzer)
+comment2.params=
+comment2.target=Node\ parse()
+comment3.params=
+comment3.target=Node\ parseExpression()
+comment3.text=\n\ EBNF\:\ EXPRESSION\ \:\:\=\ [\ "+"\ |\ "-"\ ]\ TERM\ {\ [\ "+"\ |\ "-"\ ]\ TERM\ }\n\ @returns\ a\ Node\ representing\ the\ expression\n
+comment4.params=
+comment4.target=Node\ parseTerm()
+comment4.text=\n\ EBNF\:\ TERM\ \:\:\=\ FACTOR\ {\ [\ "*"\ |\ "/"\ |\ "%"\ |\ "^"\ ]\ FACTOR\ }\n\ @returns\ a\ Node\ representing\ the\ term\n
+comment5.params=
+comment5.target=Node\ parseFactor()
+comment5.text=\n\ EBNF\:\ FACTOR\ \:\:\=\ \ \n\ \ \ \ \ \ \ \ \ \ LITERAL\ |\ \n\ \ \ \ \ \ \ \ \ \ IDENTIFIER\ |\ \n\ \ \ \ \ \ \ \ \ \ IDENTIFIER"("\ EXPRESSION\ ")"\ |\n\ \ \ \ \ \ \ \ \ \ "("\ EXPRESSION\ ")"\n\ @returns\ a\ Node\ representing\ the\ factor\n
+numComments=6

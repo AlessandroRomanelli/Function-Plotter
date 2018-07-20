@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CursorListener
+comment1.params=cursor
+comment1.target=void\ cursorChanged(Cursor)
+numComments=2

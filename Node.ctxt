@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\n\ A\ Node\ in\ an\ abstract\ syntax\ tree\ (AST)\n\ for\ a\ simple\ expression\ language.\n\ It\ does\ not\ support\ types\ other\ than\ doubles.\n
+comment1.params=program
+comment1.target=void\ generateCode(Program)
+comment1.text=\n\ Compile\ this\ AST\ into\ a\ bytecode\ program\:\n\ Append\ instructions\ to\ the\ given\ Program.\n\ @param\ program\ The\ program\ to\ which\ the\ generated\ instruction\ will\ be\n\ appended\ to.\n
+comment2.params=program
+comment2.target=Node\ optimize(Program)
+comment2.text=\n\ Converts\ this\ AST\ into\ an\ optimized\ AST\n\ @param\ program\ The\ program\ to\ needs\ the\ new\ instructions\ being\ appened.\n\ @returns\ A\ new,\ optimized\ AST.\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Generate\ a\ string-representation\ of\ the\ subtree.\n\ When\ you\ implement\ this\ method\ in\ subclasses,\n\ where\ possible\ use\ recursive\ calls\ to\ left.toString()\ and\n\ to\ right.toString()\ to\ do\ this.\n\ @return\ A\ string\ which\ represents\ the\ subtree.\n
+comment4.params=
+comment4.target=boolean\ isConstant()
+comment4.text=\n\ Checks\ whether\ the\ current\ AST\ is\ a\ constant\ operations'\ tree,\ without\n\ variables.\n\ @return\ A\ boolean\ to\ determine\ whether\ the\ AST\ is\ constant.\n
+comment5.params=
+comment5.target=Node\ derivative()
+comment5.text=\n\ Converts\ this\ AST\ into\ the\ correspctive\ derivative\ AST.\n\ @return\ a\ new\ AST\ that\ represents\ the\ derivative.\n
+comment6.params=that
+comment6.target=boolean\ isEqual(Node)
+comment6.text=\n\ A\ method\ to\ check\ whether\ two\ ASTs\ are\ the\ same.\n\ @return\ A\ boolean\ to\ represent\ whether\ the\ two\ AST\ are\ equal.\n
+numComments=7

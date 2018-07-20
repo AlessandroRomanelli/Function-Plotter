@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RangeListener
+comment0.text=\n\ The\ "model"\ doesn't\ know\ the\ specific\ "GUI"\ classes.\n\ But\ it\ still\ wants\ to\ notify\ the\ "GUI"\ (or\ text\ UI,\ or\ ...)\n\ whenever\ the\ "model"\ changes,\ so\ that\ the\ "GUI"\ (or\ text\ UI,\ or\ ...)\n\ can\ react\ to\ those\ changes\ (e.g.,\ by\ repainting\ itself).\n\ \n\ To\ enable\ this,\ we\ have\ this\ RangeListener\ interface.\n\ The\ "model"\ (i.e.,\ the\ Range)\ will\ call\ rangeChanged()\ on\ all\ registered\ listeners,\n\ without\ knowing\ the\ specific\ subtype\ of\ RangeListener\n\ (e.g.,\ the\ "model"\ does\ not\ know\ about\ the\ PlotCanvas\ class).\n
+comment1.params=range
+comment1.target=void\ rangeChanged(Range)
+numComments=2

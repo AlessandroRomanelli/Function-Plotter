@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RangePanel
+comment0.text=\n\ The\ RangePanel\ is\ a\ part\ of\ the\ "GUI".\n\ It\ shows\ the\ minimum\ and\ maximum\ value\ visible\ along\ the\ x-axis\n\ in\ two\ text\ fields,\ and\ the\ user\ can\ update\ those\ values\ by\n\ entering\ them\ into\ the\ text\ field\ and\ pressing\ ENTER.\n
+comment1.params=range
+comment1.target=RangePanel(Range)
+comment2.params=e
+comment2.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+comment3.params=text
+comment3.target=double\ evaluate(java.lang.String)
+numComments=4

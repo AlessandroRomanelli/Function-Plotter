@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Variable
+comment0.text=\n\ An\ AST\ node\ representing\ a\ variable.\n
+comment1.params=name
+comment1.target=Variable(java.lang.String)
+comment2.params=program
+comment2.target=void\ generateCode(Program)
+comment3.params=
+comment3.target=boolean\ isConstant()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=program
+comment5.target=Node\ optimize(Program)
+comment6.params=that
+comment6.target=boolean\ isEqual(Variable)
+comment7.params=
+comment7.target=Node\ derivative()
+numComments=8

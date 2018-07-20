@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Storage
+comment0.text=\n\ A\ structure\ that\ conveniently\ contains\ the\ stack\ and\ the\ varSpace\n
+comment1.params=MAX_STACK_SIZE\ variables
+comment1.target=Storage(int,\ VariableSpace)
+comment2.params=
+comment2.target=OperandStack\ getStack()
+comment3.params=
+comment3.target=VariableSpace\ getVariables()
+numComments=4

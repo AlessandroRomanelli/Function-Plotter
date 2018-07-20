@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SinFunction
+comment0.text=\n\ An\ AST\ node\ representing\ a\ function\ call\ to\ the\ sine\ function\ (sin(a)).\n
+comment1.params=argument
+comment1.target=SinFunction(Node)
+comment2.params=program
+comment2.target=void\ generateCode(Program)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=boolean\ isConstant()
+comment5.params=program
+comment5.target=Node\ optimize(Program)
+comment6.params=
+comment6.target=Node\ derivative()
+numComments=7

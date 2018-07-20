@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Token
+comment0.text=\n\ A\ Token\ produced\ by\ the\ LexicalAnalyzer.\n
+comment1.params=type\ text\ startPosition
+comment1.target=Token(TokenType,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=TokenType\ getType()
+comment3.params=
+comment3.target=java.lang.String\ getText()
+comment4.params=
+comment4.target=int\ getStartPosition()
+comment5.params=
+comment5.target=int\ getEndPosition()
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ExpressionPanelListener
+comment0.text=\n\ The\ ExpressionPanel\ will\ call\ integralToggled\ or\ derivativeToggled\ \n\ on\ all\ registered\ listeners,\ when\ one\ of\ the\ two\ buttons\ is\ clicked.\n
+comment1.params=index
+comment1.target=void\ integralToggled(int)
+comment2.params=index
+comment2.target=void\ derivativeToggled(int)
+numComments=3

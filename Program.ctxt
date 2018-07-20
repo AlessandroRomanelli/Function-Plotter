@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Program
+comment0.text=\n\ A\ Program\ is\ a\ list\ of\ Instructions\n\ (Instructions\ are\ similar\ to\ IJVM\ or\ Java\ bytecode\ instructions)\n
+comment1.params=
+comment1.target=Program()
+comment2.params=instruction
+comment2.target=void\ append(Instruction)
+comment3.params=variables
+comment3.target=double\ execute(VariableSpace)
+comment3.text=\n\ This\ method\ is\ a\ small\ "Java\ interpreter"\n\ that\ executes\ the\ bytecode\ instructions\ in\ this\ program,\n\ one\ by\ one,\ and\ then\ returns\ the\ result.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Generate\ a\ String\ representation\ of\ this\ Program,\n\ one\ line\ for\ each\ instruction\ in\ the\ program.\n
+numComments=5

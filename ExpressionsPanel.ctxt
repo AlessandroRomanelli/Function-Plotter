@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ExpressionsPanel
+comment0.text=\n\ Generates\ a\ panel\ that\ contains\ the\ ExpressionFields\ for\ the\ functions.\n
+comment1.params=functions
+comment1.target=ExpressionsPanel(Function[])
+comment10.params=index
+comment10.target=void\ fireDerivativeToggled(int)
+comment11.params=index
+comment11.target=void\ fireIntegralToggled(int)
+comment2.params=ev
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=ev
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=ev
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=component\ x\ y\ width\ height\ type
+comment5.target=void\ addComponent(javax.swing.JComponent,\ int,\ int,\ double,\ double,\ int)
+comment6.params=component\ x\ y\ width\ height\ cellX\ cellY\ type
+comment6.target=void\ addComponent(javax.swing.JComponent,\ int,\ int,\ double,\ double,\ int,\ int,\ int)
+comment7.params=li
+comment7.target=void\ addExpressionListener(ExpressionPanelListener)
+comment8.params=li
+comment8.target=void\ removeExpressionListener(ExpressionPanelListener)
+comment9.params=expressions\ panels
+comment9.target=void\ showNextField(javax.swing.JTextField[],\ javax.swing.JPanel[])
+numComments=12

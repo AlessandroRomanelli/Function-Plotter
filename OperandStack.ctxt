@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=capacity
+comment0.target=OperandStack(int)
+comment1.params=value
+comment1.target=void\ push(double)
+comment2.params=
+comment2.target=double\ pop()
+numComments=3

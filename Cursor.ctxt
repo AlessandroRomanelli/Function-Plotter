@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Cursor
+comment0.text=\n\ A\ Cursor\ represents\ the\ pointer\ for\ our\ function\n
+comment1.params=initialX
+comment1.target=Cursor(double)
+comment2.params=
+comment2.target=double\ getX()
+comment2.text=\n\ @return\ the\ current\ x\ of\ the\ cursor\ in\ respect\ to\ the\ model\n\ \n
+comment3.params=x
+comment3.target=void\ setX(double)
+comment3.text=\n\ A\ method\ that\ sets\ a\ new\ x\ for\ the\ pointer\n\ @param\ x\ A\ double\ in\ respect\ to\ the\ model\ that\ the\ horizontal\ \n\ component\ of\ the\ cursor\n
+comment4.params=li
+comment4.target=void\ addCursorListener(CursorListener)
+comment5.params=li
+comment5.target=void\ removeCursorListener(CursorListener)
+comment6.params=
+comment6.target=void\ fireCursorChanged()
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RegExTokenFactory
+comment0.text=\n\ A\ TokenFactory\ that\ can\ recognize\ Tokens\n\ based\ on\ regular\ expressions.\n
+comment1.params=regEx
+comment1.target=RegExTokenFactory(java.lang.String)
+comment2.params=text
+comment2.target=void\ setText(java.lang.String)
+comment3.params=startFrom
+comment3.target=boolean\ find(int)
+comment4.params=
+comment4.target=int\ getTokenLength()
+comment5.params=
+comment5.target=int\ getTokenStartPosition()
+comment6.params=
+comment6.target=java.lang.String\ getTokenText()
+numComments=7

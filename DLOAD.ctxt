@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DLOAD
+comment0.text=\n\ DLOAD\ loads\ the\ value\ of\ a\ double\ variable\ and\ pushes\ it\ onto\ the\ operand\ stack.\n
+comment1.params=name
+comment1.target=DLOAD(java.lang.String)
+comment2.params=storage
+comment2.target=void\ execute(Storage)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

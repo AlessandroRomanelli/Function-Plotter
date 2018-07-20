@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DCONST
+comment0.text=\n\ DCONST\ pushes\ an\ int\ constant\ onto\ the\ operand\ stack.\n
+comment1.params=value
+comment1.target=DCONST(double)
+comment2.params=storage
+comment2.target=void\ execute(Storage)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

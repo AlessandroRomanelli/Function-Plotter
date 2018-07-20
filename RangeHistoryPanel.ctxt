@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RangeHistoryPanel
+comment0.text=\n\ The\ RangeHistoryPanel\ contains\ all\ the\ GUI\ elements\ to\ use\ the\ RangeHistory,\n\ in\ order\ to\ revert\ or\ forward\ the\ state\ of\ the\ history.\n
+comment1.params=range
+comment1.target=RangeHistoryPanel(Range)
+comment2.params=ev
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=ev
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=range
+comment4.target=void\ rangeChanged(Range)
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Plot
+comment0.text=\n\ The\ Plot\ is\ the\ "model"\ of\ this\ application.\n\ It\ is\ an\ immutable\ class\ that\n\ points\ to\ the\ two\ mutable\ and\ observable\ parts\ of\ the\ "model"\:\n\ 1)\ a\ Function,\ and\n\ 2)\ a\ Range\ (along\ the\ x-axis,\ over\ which\ the\ function\ should\ be\ plotted).\n
+comment1.params=functions\ range\ cursor
+comment1.target=Plot(Function[],\ Range,\ Cursor)
+comment2.params=
+comment2.target=Function[]\ getFunctions()
+comment2.text=\ This\ method\ is\ a\ getter\ for\ other\ classes\ to\ access\ this\ private\ field\n\ @return\ Returns\ an\ array\ of\ Functions\n
+comment3.params=
+comment3.target=Range\ getRange()
+comment3.text=\ This\ method\ is\ a\ getter\ for\ other\ classes\ to\ access\ this\ private\ field\ \n\ @return\ Returns\ the\ Range\ object\ \n
+comment4.params=
+comment4.target=Cursor\ getCursor()
+comment4.text=\ This\ method\ is\ a\ getter\ for\ other\ classes\ to\ access\ this\ private\ field\ \n\ @return\ Returns\ the\ Cursor\ object\n
+numComments=5

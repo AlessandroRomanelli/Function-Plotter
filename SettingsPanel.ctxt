@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SettingsPanel
+comment0.text=\n\ The\ SettingsPanel\ contains\ all\ the\ options\ to\ change\ the\ state\ of\ the\n\ currently\ plotted\ functions\:\ X/Y\ ranges,\ Resize\ Mode,\ Reset\ and\ History\n
+comment1.params=range
+comment1.target=SettingsPanel(Range)
+comment2.params=ev
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=ev
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

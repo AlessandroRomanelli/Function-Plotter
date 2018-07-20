@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StringTokenFactory
+comment0.text=\n\ A\ TokenFactory\ that\ can\ recognize\ Tokens\ based\ on\ Strings.\n
+comment1.params=tokenText
+comment1.target=StringTokenFactory(java.lang.String)
+comment2.params=text
+comment2.target=void\ setText(java.lang.String)
+comment3.params=
+comment3.target=int\ getTokenLength()
+comment4.params=startFrom
+comment4.target=boolean\ find(int)
+comment5.params=
+comment5.target=int\ getTokenStartPosition()
+comment6.params=
+comment6.target=java.lang.String\ getTokenText()
+numComments=7
